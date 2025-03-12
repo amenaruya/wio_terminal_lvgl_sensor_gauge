@@ -1,1 +1,3 @@
-# wio_terminal_lvgl_sensor_gauge
+# Wio Terminal lvgl light sensor gauge
+
+This example show the light sensor value with a gauge.
